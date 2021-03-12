@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Supercom - 1\\OneDrive\\Documents\\3rd Condition Homework\\.git\\Condition Homework\\Condition Homework\\Condition Homework.csproj": {}
+    "C:\\Users\\Supercom - 1\\OneDrive\\Documents\\3rd Condition Homework\\Condition Homework\\Condition Homework\\Condition Homework.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Supercom - 1\\OneDrive\\Documents\\3rd Condition Homework\\.git\\Condition Homework\\Condition Homework\\Condition Homework.csproj": {
+    "C:\\Users\\Supercom - 1\\OneDrive\\Documents\\3rd Condition Homework\\Condition Homework\\Condition Homework\\Condition Homework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Supercom - 1\\OneDrive\\Documents\\3rd Condition Homework\\.git\\Condition Homework\\Condition Homework\\Condition Homework.csproj",
+        "projectUniqueName": "C:\\Users\\Supercom - 1\\OneDrive\\Documents\\3rd Condition Homework\\Condition Homework\\Condition Homework\\Condition Homework.csproj",
         "projectName": "Condition Homework",
-        "projectPath": "C:\\Users\\Supercom - 1\\OneDrive\\Documents\\3rd Condition Homework\\.git\\Condition Homework\\Condition Homework\\Condition Homework.csproj",
+        "projectPath": "C:\\Users\\Supercom - 1\\OneDrive\\Documents\\3rd Condition Homework\\Condition Homework\\Condition Homework\\Condition Homework.csproj",
         "packagesPath": "C:\\Users\\Supercom - 1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Supercom - 1\\OneDrive\\Documents\\3rd Condition Homework\\.git\\Condition Homework\\Condition Homework\\obj\\",
+        "outputPath": "C:\\Users\\Supercom - 1\\OneDrive\\Documents\\3rd Condition Homework\\Condition Homework\\Condition Homework\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Supercom - 1\\AppData\\Roaming\\NuGet\\NuGet.Config",
