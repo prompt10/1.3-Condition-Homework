@@ -1,0 +1,13 @@
+C:\Users\Supercom - 1\OneDrive\Documents\3rd Condition Homework\.git\Condition Homework\Condition Homework\bin\Debug\netcoreapp3.1\Condition Homework.exe
+C:\Users\Supercom - 1\OneDrive\Documents\3rd Condition Homework\.git\Condition Homework\Condition Homework\bin\Debug\netcoreapp3.1\Condition Homework.deps.json
+C:\Users\Supercom - 1\OneDrive\Documents\3rd Condition Homework\.git\Condition Homework\Condition Homework\bin\Debug\netcoreapp3.1\Condition Homework.runtimeconfig.json
+C:\Users\Supercom - 1\OneDrive\Documents\3rd Condition Homework\.git\Condition Homework\Condition Homework\bin\Debug\netcoreapp3.1\Condition Homework.runtimeconfig.dev.json
+C:\Users\Supercom - 1\OneDrive\Documents\3rd Condition Homework\.git\Condition Homework\Condition Homework\bin\Debug\netcoreapp3.1\Condition Homework.dll
+C:\Users\Supercom - 1\OneDrive\Documents\3rd Condition Homework\.git\Condition Homework\Condition Homework\bin\Debug\netcoreapp3.1\Condition Homework.pdb
+C:\Users\Supercom - 1\OneDrive\Documents\3rd Condition Homework\.git\Condition Homework\Condition Homework\obj\Debug\netcoreapp3.1\Condition Homework.csprojAssemblyReference.cache
+C:\Users\Supercom - 1\OneDrive\Documents\3rd Condition Homework\.git\Condition Homework\Condition Homework\obj\Debug\netcoreapp3.1\Condition Homework.AssemblyInfoInputs.cache
+C:\Users\Supercom - 1\OneDrive\Documents\3rd Condition Homework\.git\Condition Homework\Condition Homework\obj\Debug\netcoreapp3.1\Condition Homework.AssemblyInfo.cs
+C:\Users\Supercom - 1\OneDrive\Documents\3rd Condition Homework\.git\Condition Homework\Condition Homework\obj\Debug\netcoreapp3.1\Condition Homework.csproj.CoreCompileInputs.cache
+C:\Users\Supercom - 1\OneDrive\Documents\3rd Condition Homework\.git\Condition Homework\Condition Homework\obj\Debug\netcoreapp3.1\Condition Homework.dll
+C:\Users\Supercom - 1\OneDrive\Documents\3rd Condition Homework\.git\Condition Homework\Condition Homework\obj\Debug\netcoreapp3.1\Condition Homework.pdb
+C:\Users\Supercom - 1\OneDrive\Documents\3rd Condition Homework\.git\Condition Homework\Condition Homework\obj\Debug\netcoreapp3.1\Condition Homework.genruntimeconfig.cache
