@@ -28,11 +28,47 @@ namespace Condition_Homework
                 if (mode == "time")
                 {
                     p1 = Math.Pow(x - 1, 2);
-                    Console.WriteLine("({0},{1})", x, p1);
+                    Console.WriteLine("({0:f2},{1:f2})", x, p1);
                 }
                 else if (mode == "price")
                 {
-                    t2 = x;
+                    if (x < 1)
+                    {
+                        if (y > 1)
+                        {
+                            t2 = (1 + (Math.Sqrt(y)));
+                            Console.WriteLine("({0:f2},{1:f2})", t2, y);
+                        }
+                        else
+                        {
+                            t2 = (1 - (Math.Sqrt(y)));
+                            Console.WriteLine("({0:f2},{1:f2})", t2, y);
+                        }
+                    }
+                    else if (x > 1)
+                    {
+                        t2 = (1 + (Math.Sqrt(y)));
+                        Console.WriteLine("({0:f2},{1:f2})", t2, y);
+                    }
+                    else
+                    {
+                        t1 = (1 - (Math.Sqrt(y)));
+                        if (t1 > 1)
+                        {
+                            t2 = (1 + (Math.Sqrt(y)));
+                            Console.WriteLine("({0:f2},{1:f2})", t2, y);
+                        }
+                        else
+                        {
+                            t1 = (1 - (Math.Sqrt(y)));
+                            Console.WriteLine("({0:f2},{1:f2})", t1, y);
+                            Console.WriteLine("Or");
+                            t2 = (1 + (Math.Sqrt(y)));
+                            Console.WriteLine("({0:f2},{1:f2})", t2, y);
+                        }
+                        
+                    }
+                    
                 }
                 else
                 {
